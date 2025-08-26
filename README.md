@@ -16,7 +16,7 @@
 
 ### 🔹 Backend Development
 - **Java** (Core & Advanced)
-- **Spring Framework** (Spring Boot, Spring MVC)
+- **Spring Framework** (Spring Boot)
 
 ### 🔹 Databases
 - MySQL
