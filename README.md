@@ -10,9 +10,9 @@
 
 ## 🛠 Skills & Technologies
 ## Frontend
-html
-css
-javascript 
+– html
+– css
+– javascript 
 
 ### 🔹 Backend Development
 - **Java** (Core & Advanced)
