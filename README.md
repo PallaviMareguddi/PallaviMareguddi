@@ -23,7 +23,7 @@
 - PLSQL
 
 ### 🔹 DevOps & Cloud
-- Docker,maven
+- Docker,maven,Jenkins,ansible
 - Git, GitHub 
 - AWS Basics
 
