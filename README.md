@@ -37,7 +37,7 @@
 • Automated Java application build and deployment using Jenkins and Docker.  
 
 ## 🎓 Education  
-BCA in Computer Application BHS Arts,TGP Science,Commerce College, Jamakhandi  
+**BCA Graduate🎓** in Computer Application BHS Arts,TGP Science,Commerce College, Jamakhandi  
 📍 Location: Jamkhandi, India  
 
 ## 📜 Work Experience  
