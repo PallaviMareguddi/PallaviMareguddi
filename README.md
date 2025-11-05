@@ -6,11 +6,7 @@
 **🔭 Currently Doing** Currently, I’m pursuing a Java Full Stack Development Course  
 **☁️ Cloud & DevOps** Basic understanding of AWS Cloud and CI/CD pipeline concepts.  
 - Currently learning DevOps tools and practices to integrate automation into development workflows.  
-**💬 Ask Me About**  
-- HTML, CSS, JavaScript, React.js  
-- Java, Spring, Spring Boot  
-- REST APIs  
-👀 **Interested In** Frontend Development  
+**💬 Ask Me About**: HTML, CSS, JavaScript, React.js,Java, Spring, Spring Boot,REST APIs  
 📍 **Location** :Bangalore, India  
 ---
 # 🛠 Skills & Technologies  
