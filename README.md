@@ -4,8 +4,7 @@
 ---
 
 **🔭 Currently Doing** Currently, I’m pursuing a Java Full Stack Development Course  
-**☁️ Cloud & DevOps**  
-- Basic understanding of AWS Cloud and CI/CD pipeline concepts.  
+**☁️ Cloud & DevOps** Basic understanding of AWS Cloud and CI/CD pipeline concepts.  
 - Currently learning DevOps tools and practices to integrate automation into development workflows.  
 **💬 Ask Me About**  
 - HTML, CSS, JavaScript, React.js  
@@ -40,11 +39,11 @@
 • Automated Java application build and deployment using Jenkins and Docker.  
 
 ## 🎓 Education  
-BCA in Computer Application BHS Arts, TGP Science, Commerce College, Jamakhandi  
+BCA in Computer Application BHS Arts,TGP Science,Commerce College, Jamakhandi  
 📍 Location: Jamkhandi, India  
 
 ## 📜 Work Experience  
-• Internship on Python Full Stack Development — AgileItech Edureka Learning Center, Hubballi  
+• Internship on Python Full Stack Development — AgileItech Edureka Learning Center, Hubli  
 • DevOps Internship — JSpiders  
 • Java Full Stack Internship— JSpiders  
   
