@@ -24,9 +24,11 @@
 - PL/SQL  
 
 • ☁️ DevOps & Cloud  
-- Docker, Maven, Jenkins, Ansible, Terraform, Kubernetes  
+- Docker, Maven, Ansible, Terraform, Kubernetes  
 - Git, GitHub  
-- AWS Cloud  
+- AWS Cloud
+- CI/CD (Jenkins, GitHub Actions)
+- Shell Scripting (Bash)
 
 ## 📂 Projects  
  🛒 Online Grocery System  
